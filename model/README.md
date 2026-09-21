@@ -11,7 +11,8 @@ The report is built on a star schema: one fact table at employee grain, surround
 - DimAgeGroup and DimSalarySlab: editable band definitions
 - DimRating: labels for the 1-4 rating scales
 
-<img width="670" height="483" alt="image" src="https://github.com/user-attachments/assets/d69e0738-5959-44fe-bfbf-e73f74be26cf" />
+<img width="485" height="386" alt="image" src="https://github.com/user-attachments/assets/b0c78338-2fd6-4ebd-9238-39217146a754" />
+
 
 
 ## Files
