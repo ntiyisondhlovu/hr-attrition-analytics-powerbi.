@@ -1,9 +1,5 @@
 
 # Power BI report
-
-<img width="379" height="620" alt="image" src="https://github.com/user-attachments/assets/b6d641db-085e-41e6-ac36-01c0d1ca0e1c" />
-
-
 ## Files
 - HR.pbix: the Power BI report (open with the free Power BI Desktop)
 - A PDF export of the report for quick viewing
