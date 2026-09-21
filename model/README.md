@@ -11,6 +11,9 @@ The report is built on a star schema: one fact table at employee grain, surround
 - DimAgeGroup and DimSalarySlab: editable band definitions
 - DimRating: labels for the 1-4 rating scales
 
+<img width="670" height="483" alt="image" src="https://github.com/user-attachments/assets/d69e0738-5959-44fe-bfbf-e73f74be26cf" />
+
+
 ## Files
 - star-schema.png: model diagram
 - measures.md: DAX measure definitions
