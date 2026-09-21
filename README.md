@@ -60,4 +60,7 @@ Editable Word versions are in the [docs folder](docs/).
 Predictive attrition risk model; synthetic hire date for trend analysis.
 
 ## Author
-[Ntiyiso Ndhlovu] | [https://www.linkedin.com/in/ntiyiso-ndhlovu-840048129/]
+[Ntiyiso Ndhlovu] 
+
+# HR Attrition Analytics Dashboard (Power BI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-name/)
