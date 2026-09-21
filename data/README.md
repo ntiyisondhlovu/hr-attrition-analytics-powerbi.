@@ -2,12 +2,7 @@
 
 ## Source
 IBM HR Employee Attrition dataset from Kaggle.
-- Link: [import kagglehub
-
-# Download latest version
-path = kagglehub.dataset_download("pavansubhasht/ibm-hr-analytics-attrition-dataset")
-
-print("Path to dataset files:", path)]
+- Link: kagglehub.dataset_download("pavansubhasht/ibm-hr-analytics-attrition-dataset"
 - Downloaded: [21 September 2026]
 - Size: 1,470 employees, 35 columns
 - Quality checks: no missing values, and EmployeeNumber is unique
